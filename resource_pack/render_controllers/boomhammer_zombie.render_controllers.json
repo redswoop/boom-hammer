@@ -1,0 +1,16 @@
+{
+ "format_version": "1.8.0",
+ "render_controllers": {
+  "controller.render.boomhammer_zombie": {
+   "geometry": "query.is_baby ? Geometry.baby : Geometry.default",
+   "materials": [
+    {
+     "*": "Material.default"
+    }
+   ],
+   "textures": [
+    "query.is_name_any('Lightning Zombie', '§eLightning Zombie') ? (query.is_baby ? Texture.lightning_baby : Texture.lightning) : (query.is_baby ? Texture.baby : Texture.default)"
+   ]
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Boom Hammer 0.1.16",
+    "description": "Boom Hammer 0.1.16: smash the ground and BOOM.",
+    "uuid": "620ce416-a560-41e2-9bd9-f6a1dc0b8f3f",
+    "version": [0, 1, 16],
+    "min_engine_version": [1, 26, 20]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "c3840329-17da-4353-9398-523b1db898ca",
+      "entry": "scripts/main.js",
+      "version": [0, 1, 16]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    },
+    {
+      "uuid": "48375f29-692f-45c3-9fea-5a6792b0224a",
+      "version": [0, 1, 16]
+    }
+  ]
+}

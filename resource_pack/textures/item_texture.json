@@ -1,0 +1,27 @@
+{
+  "resource_pack_name": "boomhammer",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "boomhammer_boom_hammer": {
+      "textures": "textures/items/boomhammer/boom_hammer"
+    },
+    "boomhammer_fire_staff": {
+      "textures": "textures/items/boomhammer/fire_staff"
+    },
+    "boomhammer_lightning_bow": {
+      "textures": "textures/items/boomhammer/lightning_bow"
+    },
+    "boomhammer_lightning_arrow": {
+      "textures": "textures/items/boomhammer/lightning_arrow"
+    },
+    "boomhammer_lightning_shard": {
+      "textures": "textures/items/boomhammer/lightning_shard"
+    },
+    "boomhammer_lightning_house": {
+      "textures": "textures/items/boomhammer/lightning_house"
+    },
+    "boomhammer_insomnia_creeper_egg": {
+      "textures": "textures/items/boomhammer/insomnia_creeper_egg"
+    }
+  }
+}

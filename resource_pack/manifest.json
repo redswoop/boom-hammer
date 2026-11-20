@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Boom Hammer 0.1.16 (art)",
+    "description": "Textures for the Boom Hammer.",
+    "uuid": "48375f29-692f-45c3-9fea-5a6792b0224a",
+    "version": [0, 1, 16],
+    "min_engine_version": [1, 26, 20]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bb6bfe68-af15-4149-8bdc-532a160db280",
+      "version": [0, 1, 16]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "620ce416-a560-41e2-9bd9-f6a1dc0b8f3f",
+      "version": [0, 1, 16]
+    }
+  ]
+}
